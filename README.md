@@ -55,6 +55,7 @@ Enter your choice: 3
 
 ### About The Project
 #### Project Structure
+```
 sort-psbb
 ├─ run
 │  ├─ jarfile
@@ -69,3 +70,4 @@ sort-psbb
 .gitignore
 README.md
 sort-psbb.iml
+```
