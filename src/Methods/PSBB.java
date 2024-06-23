@@ -23,7 +23,6 @@ public class PSBB {
                 }
                 member.removeIf(num -> num.equals(-1));
             }
-            System.out.println(seats);
             return seats.size();
         }
     }
